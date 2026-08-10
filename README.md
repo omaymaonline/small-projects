@@ -1,8 +1,8 @@
 # 🐍 Small Python Projects
 
-These are some of my early projects while learning Python.
+These are some of the projects I built while learning Python with **OctuCode**.
 
-Nothing here is meant to be a production-ready system or something "cool". These projects are where I learned by trying things, breaking them, fixing them, and gradually understanding how programs actually work.
+They capture a particular stage of my journey: learning by following excellent material, experimenting with what I learned, making mistakes, breaking things, fixing them, and gradually becoming more comfortable writing programs on my own.
 
 Some examples include:
 
@@ -11,11 +11,23 @@ Some examples include:
 * 🎲 Small games and experiments
 * 📁 File and data handling projects
 
-Each project represents a small step in the journey.
+Each project represents a small step in my progress.
 
-The goal wasn't to build something impressive.
+The goal wasn't to build something impressive for the sake of it.
 
-It was to **learn Python by building things with it.**
+It was to **learn Python by actually using it.**
 
-> **First I learned to make programs.
-> Then I will start learning how to build systems.**
+> **I was learning how to make programs.**
+> **Now I'm learning how to build systems.**
+
+---
+
+## 🌸 Thank You, OctuCode
+
+I'm genuinely grateful to **OctuCode** for the knowledge and guidance that helped me along these first steps with Python.
+
+The quality of the content made it possible for me to explore concepts, experiment with them, and turn what I was learning into actual projects.
+
+If you're interested in learning Python and programming, I highly recommend exploring the channel:
+
+📺 **[OctuCode on YouTube](https://youtube.com/@octucode?si=Gb9TTcIeP7VkxMGH)**
