@@ -17,9 +17,6 @@ The goal wasn't to build something impressive for the sake of it.
 
 It was to **learn Python by actually using it.**
 
-> **I was learning how to make programs.**
-> **Now I'm learning how to build systems.**
-
 ---
 
 ## 🌸 Thank You, OctuCode
